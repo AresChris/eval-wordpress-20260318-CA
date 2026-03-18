@@ -1,0 +1,22 @@
+/*
+Theme Name: tp-christopher-ares
+*/
+
+main{
+    width: 500px;
+    margin: auto;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    width: 500px;
+    margin: auto;
+}
+.menu a{
+  margin-right: 25px;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}
